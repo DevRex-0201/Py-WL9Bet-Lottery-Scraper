@@ -4,7 +4,7 @@ The WL9Bet Lottery Results Automation System is a comprehensive Python-based sol
 
 ## Video Preview
 
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-DNA-Bet-Data-Scraping.png)](https://drive.google.com/file/d/1p2l2MHc4DB4CBRd-Ll9WorAQEu8YNAYN/view?usp=drive_link)
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/Py-WL9Bet-Lottery-Scraper.png)](https://brand-car.s3.eu-north-1.amazonaws.com/Four+Seasons/Py-WL9Bet-Lottery-Scraper.mp4)
 
 ## Key Features
 
