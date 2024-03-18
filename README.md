@@ -2,6 +2,10 @@
 
 The WL9Bet Lottery Results Automation System is a comprehensive Python-based solution designed to automatically scrape, process, and log lottery results from the WL9Bet website. It facilitates seamless monitoring and recording of lottery outcomes by integrating directly with Google Sheets for data storage and providing timely notifications via Telegram in case of any operational anomalies. This system is particularly beneficial for users requiring consistent updates on lottery results without manual oversight, making it an essential tool for lottery enthusiasts and analysts.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-DNA-Bet-Data-Scraping.png)](https://drive.google.com/file/d/1p2l2MHc4DB4CBRd-Ll9WorAQEu8YNAYN/view?usp=drive_link)
+
 ## Key Features
 
 - **Automated Scraping of Lottery Results**: Utilizes web scraping techniques to extract lottery results from the WL9Bet website, ensuring accurate and up-to-date information.
@@ -10,10 +14,6 @@ The WL9Bet Lottery Results Automation System is a comprehensive Python-based sol
 - **Customizable Data Extraction Intervals**: Features a Tkinter GUI for setting the scraping frequency, providing flexibility in data collection based on user preferences.
 - **Robust Error Handling and Retry Logic**: Implements sophisticated error handling and retry mechanisms for both web scraping and Google Sheets updates, enhancing system reliability.
 - **Headless Browser Operation**: Employs a headless Chrome browser for web scraping, optimized for running on server environments without a GUI.
-
-## Video Preview
-
-[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-DNA-Bet-Data-Scraping.png)](https://drive.google.com/file/d/1p2l2MHc4DB4CBRd-Ll9WorAQEu8YNAYN/view?usp=drive_link)
 
 ## System Requirements
 
