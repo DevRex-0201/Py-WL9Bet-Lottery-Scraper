@@ -11,6 +11,10 @@ The WL9Bet Lottery Results Automation System is a comprehensive Python-based sol
 - **Robust Error Handling and Retry Logic**: Implements sophisticated error handling and retry mechanisms for both web scraping and Google Sheets updates, enhancing system reliability.
 - **Headless Browser Operation**: Employs a headless Chrome browser for web scraping, optimized for running on server environments without a GUI.
 
+## Video Preview
+
+[![Video Preview](https://github.com/DevRex-0201/Project-Images/blob/main/video%20preview/Py-DNA-Bet-Data-Scraping.png)](https://drive.google.com/file/d/1p2l2MHc4DB4CBRd-Ll9WorAQEu8YNAYN/view?usp=drive_link)
+
 ## System Requirements
 
 - **Environment**: Python 3.x environment.
