@@ -80,20 +80,6 @@ def init_driver():
                 return None  # Return None or raise an exception
 
     return driver
-async def send_mail():
-    bot_token = "YOUR_BOT_TOKEN_HERE"  # Replace YOUR_BOT_TOKEN_HERE with your actual bot token
-    chat_id = "YOUR_CHAT_ID"  # Replace YOUR_CHAT_ID with your actual chat ID
-    bot = Bot(token=bot_token)
-    await bot.send_message(chat_id=chat_id, text="Re-login failed. Retrying...")
-
-async def send_mail():
-    print('send_mail')
-    bot = telegram.Bot("6877424292:AAHUnzus7LNyGlzmX--KB8t1vh3w3yxP6CU")
-    async with bot:
-        print(await bot.get_me())
-        chat_id = (await bot.get_updates())
-        print(chat_id)
-        await bot.send_message(text="Re-login failed. Retrying...", chat_id=1123788700)
 
 def main():
     total_data = [["Data Time", "Huay 264", "Huay VIP 264", "LTO 264", "LTO VIP 264", "ชัดเจน 264", "ชัดเจน VIP 264"]]
